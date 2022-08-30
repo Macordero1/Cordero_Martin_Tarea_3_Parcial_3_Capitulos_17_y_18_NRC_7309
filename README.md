@@ -128,10 +128,18 @@ No puede ser Vab = 0 V, ya que, la rama LC no presenta resistencia siendo así q
 
 **38. Diseñe un red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz. Suponga una bobina de 10 mH con resistencia de devanado de 5 Ω.**
 
+![image](https://user-images.githubusercontent.com/105742149/187326807-4e751c4b-b9c5-45bd-b086-7e5829284b2a.png)
+
+![image](https://user-images.githubusercontent.com/105742149/187326755-dce2a0dc-f552-45c8-906a-ae780e327ed1.png)
+
 **40. Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho
 de banda? ¿Cuál es la frecuencia resonante?**
 
+![image](https://user-images.githubusercontent.com/105742149/187326840-446174a5-f2f2-41fd-9330-dfd00287509c.png)
+
 **42. En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω**
+
+![image](https://user-images.githubusercontent.com/105742149/187326859-842bc1fc-3584-4d2a-98a8-9a57c90e8ed2.png)
 
 ### **Capitulo 18**
 
