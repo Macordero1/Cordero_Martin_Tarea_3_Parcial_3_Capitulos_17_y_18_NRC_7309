@@ -46,6 +46,8 @@
 
 **8. Para el circuito de la figura 17-59, ¿es la frecuencia resonante más alta o más baja que el valor indicado por los valores de reactancia?**
 
+![image](https://user-images.githubusercontent.com/105742149/187325612-3d18f2f6-676c-4d32-82d4-47d537eadddf.png)
+
 **10. En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante.**
  
 ![image](https://user-images.githubusercontent.com/105742149/187308052-580b170b-bb3d-4063-a73f-f827398e99cf.png)
@@ -138,76 +140,124 @@ se les permite pasar y cuáles son rechazadas:**
 
 **(a) 100 Hz**
 
+* Permite
+
 **(b) 1 kHz** 
+
+* Permite
 
 **(c) 2 kHz** 
 
+* Permite
+
 **(d) 3 kHz**
 
+* Permite
+
 **(e) 5 kHz**
+
+* Permite
 
 **4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a f c en cada caso
 cuando Vent=5 V.**
  
 ![image](https://user-images.githubusercontent.com/105742149/187323762-aa23c533-abb4-41f5-9f94-834c01b7aa53.png)
 
+![image](https://user-images.githubusercontent.com/105742149/187326406-6a2db3e5-92ea-48b5-9317-fcd4f7cdd3d2.png)
+![image](https://user-images.githubusercontent.com/105742149/187326436-e4dd4ccc-c161-4abb-8c18-3c3f1a34ab42.png)
+![image](https://user-images.githubusercontent.com/105742149/187326461-bc70765f-ef47-47b8-aaba-2e0b70ebf838.png)
+![image](https://user-images.githubusercontent.com/105742149/187326479-11befe81-af20-4807-97bf-86a5f3d35810.png)
 
 **6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados
 de la figura 18-40.**
 
 ![image](https://user-images.githubusercontent.com/105742149/187323792-fd4b353c-b83e-405f-a1f4-70545438512d.png)
 
+![image](https://user-images.githubusercontent.com/105742149/187326558-8091f00d-53a8-4306-9e13-158782316e44.png)
 
 **8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB:**
  
- ![image](https://user-images.githubusercontent.com/105742149/187323820-a6817f5e-376b-4b51-a72e-191ee26450a5.png)
+![image](https://user-images.githubusercontent.com/105742149/187323820-a6817f5e-376b-4b51-a72e-191ee26450a5.png)
+
+![image](https://user-images.githubusercontent.com/105742149/187326593-ece377e2-e7ab-4d1c-a3b9-95bf1ee33725.png)
 
 **10. Para cada filtro RC pasa bajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (fc= 1 kHz):**
 
 **(a) 10 kHz**
 
+![image](https://user-images.githubusercontent.com/105742149/187326633-6b1f67a4-1e39-4561-bbfd-45b9a0d4c1af.png)
+
 **(b) 100 kHz** 
 
+![image](https://user-images.githubusercontent.com/105742149/187326663-759faed7-da6e-4cf8-b447-f05e29299f1c.png)
+
 **(c) 1 MHz**
+
+![image](https://user-images.githubusercontent.com/105742149/187326677-0cf34c5e-7d46-41dd-9279-c1f1b0619347.png)
 
 **12. La frecuencia crítica de un filtro pasa altas es de 50 Hz. Determine a cuáles de las siguientes frecuencias
 se les permite pasar y cuáles son rechazadas:**
 
 **(a) 1 Hz**
 
+-Frecuencia rechazada debido a que es menor que 50 Hz.
+
 **(b) 20 Hz** 
+
+-Frecuencia rechazada debido a que es menor que 50 Hz.
 
 **(c) 50 Hz**
 
+-Frecuencia Crítica.
+
 **(d) 60 Hz**
+
+-Permite pasar esta frecuencia ya que es mayor a 50 Hz.
 
 **(e) 30 kHz**
 
+-Permite pasar esta frecuencia ya que es mayor a 50 Hz.
+
 **14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (V ent=10 V).**
  
- ![image](https://user-images.githubusercontent.com/105742149/187323834-777c848f-5807-4ffc-a5dc-9697cd7c40fe.png)
+![image](https://user-images.githubusercontent.com/105742149/187323834-777c848f-5807-4ffc-a5dc-9697cd7c40fe.png)
+ 
+![image](https://user-images.githubusercontent.com/105742149/187325819-b88e8b6d-e4e5-4d64-a204-fd6bb7e90472.png)
 
 **16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.**
  
 ![image](https://user-images.githubusercontent.com/105742149/187323855-195c1cb3-8529-4237-b60c-ded3f9d3b07d.png)
 
+![image](https://user-images.githubusercontent.com/105742149/187325875-647138ea-ce4a-420b-acab-2ba3ea8971c1.png)
+
 **18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Ω, determine
 el ancho de banda para cada filtro.**
 
+![image](https://user-images.githubusercontent.com/105742149/187325902-51bcbeb1-13fc-4c50-a5cf-2f9b540aa038.png)
+
 **20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasa banda. Ignore RW**
+
+![image](https://user-images.githubusercontent.com/105742149/187325928-525ac950-39c7-4f71-87a9-559bcc88cfd3.png)
 
 **22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. ¿Se traslapan algunas de las respuestas? Suponga que RW= 0 Ω para cada bobina.**
 
-![image](https://user-images.githubusercontent.com/105742149/187323878-f036ebb4-2d7e-490c-b7dc-8423905339d9.png)
+![image](https://user-images.githubusercontent.com/105742149/187326233-d8e1cd34-4d15-4d9b-bf39-179ea37cd658.png)
 
- 
-**24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.**
+![image](https://user-images.githubusercontent.com/105742149/187326158-71b64a58-9aae-4e6a-b557-c0427abc92e7.png)
+![image](https://user-images.githubusercontent.com/105742149/187326199-76150dff-8080-4e72-a847-b9eff47572a1.png)
+![image](https://user-images.githubusercontent.com/105742149/187326216-70ed1ace-a7f3-4f09-b6e5-00430a27a88a.png)
+
+ **24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.**
 
 ![image](https://user-images.githubusercontent.com/105742149/187323895-2ef50b52-8b24-4cbe-827c-9207ed6712ae.png)
+
+![image](https://user-images.githubusercontent.com/105742149/187326053-9eb31678-2947-4a95-b3e7-affba3add85c.png)
 
 **26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Æ, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent= 50 V?**
 
 ![image](https://user-images.githubusercontent.com/105742149/187323909-a0bb5eb1-4f07-47b0-b7ba-476a5c7b2ed6.png)
+
+![image](https://user-images.githubusercontent.com/105742149/187326086-9d2279fd-4eca-4dc5-a087-50540636cd74.png)
 
 ### **4.	Video**
 
