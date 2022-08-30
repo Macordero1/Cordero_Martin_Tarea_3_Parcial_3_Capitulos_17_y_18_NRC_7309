@@ -271,6 +271,9 @@ el ancho de banda para cada filtro.**
 
 ### **5.	Conclusiones**
 
+* Los filtros pasa bajas son esos que permiten pasar señales de baja frecuencia a partir de la acceso hasta la salida a medida que rechaza las señales de baja frecuencia, los filtros pasa altas permiten el paso de las señales de alta frecuencia a partir de la acceso hasta la salida a medida que rechaza las señale de baja frecuencia, los filtros pasa banda permiten el paso de determinada banda de frecuencias y reduce o rechaza por completo las frecuencias que permanecen por abajo y por arriba de la banda de paso, al final los filtros pasa banda permiten el paso de determinada banda de frecuencias y reduce o rechaza cada una de las frecuencias que permanecen por abajo y por arriba de la banda de paso. 
+* Los circuitos RCL son esos circuitos que tienen una resistencia, un inductor y un condesador que se hallan conectados en serie o en paralelo, dichos se diferencian entre si por medio de la manera en que estan compuestos. 
+
 ### **6.	Bibliografía**
 
 Floyd, T. (2007). Principios de circuitos eléctricos (8va ed), México DF ,México: Pearson Educación.
