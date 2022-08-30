@@ -18,7 +18,11 @@
 * Analizar un circuito en cuanto a resonancia en paralelo 
 * Determinar el ancho de banda de circuitos resonantes
 * Examinar algunas aplicaciones de circuitos resonantes
-* 
+* Analizar la operación de filtros pasabajas RC y RL
+* Analizar la operación de filtros pasaaltas RC y RL
+* Analizar la operación de filtros pasabanda
+* Analizar la operación de filtros rechazabanda
+
 ### **2.	Marco Teórico (Resumen)**
 
 ### **3.	Explicación y resolución de ejercicios o problemas**
@@ -27,7 +31,6 @@
 **2. Determine la impedancia en la figura 17-59 y exprésela en forma polar.**
 
  ![image](https://user-images.githubusercontent.com/105742149/187308019-a91a0d12-b057-4ddb-9c02-e9d5212f41a0.png)
-
 
 **4. Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 Ω.**
 
@@ -94,6 +97,82 @@ de banda? ¿Cuál es la frecuencia resonante?**
 **42. En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω**
 
 ### **Capitulo 18**
+
+**2. Un filtro pasa bajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias
+se les permite pasar y cuáles son rechazadas:**
+
+**(a) 100 Hz**
+
+**(b) 1 kHz** 
+
+**(c) 2 kHz** 
+
+**(d) 3 kHz**
+
+**(e) 5 kHz**
+
+**4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a f c en cada caso
+cuando Vent=5 V.**
+ 
+![image](https://user-images.githubusercontent.com/105742149/187323762-aa23c533-abb4-41f5-9f94-834c01b7aa53.png)
+
+
+**6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados
+de la figura 18-40.**
+
+![image](https://user-images.githubusercontent.com/105742149/187323792-fd4b353c-b83e-405f-a1f4-70545438512d.png)
+
+
+**8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB:**
+ 
+ ![image](https://user-images.githubusercontent.com/105742149/187323820-a6817f5e-376b-4b51-a72e-191ee26450a5.png)
+
+**10. Para cada filtro RC pasa bajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (fc= 1 kHz):**
+
+**(a) 10 kHz**
+
+**(b) 100 kHz** 
+
+**(c) 1 MHz**
+
+**12. La frecuencia crítica de un filtro pasa altas es de 50 Hz. Determine a cuáles de las siguientes frecuencias
+se les permite pasar y cuáles son rechazadas:**
+
+**(a) 1 Hz**
+
+**(b) 20 Hz** 
+
+**(c) 50 Hz**
+
+**(d) 60 Hz**
+
+**(e) 30 kHz**
+
+**14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (V ent=10 V).**
+ 
+ ![image](https://user-images.githubusercontent.com/105742149/187323834-777c848f-5807-4ffc-a5dc-9697cd7c40fe.png)
+
+**16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.**
+ 
+![image](https://user-images.githubusercontent.com/105742149/187323855-195c1cb3-8529-4237-b60c-ded3f9d3b07d.png)
+
+**18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Ω, determine
+el ancho de banda para cada filtro.**
+
+**20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasa banda. Ignore RW**
+
+**22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. ¿Se traslapan algunas de las respuestas? Suponga que RW= 0 Ω para cada bobina.**
+
+![image](https://user-images.githubusercontent.com/105742149/187323878-f036ebb4-2d7e-490c-b7dc-8423905339d9.png)
+
+ 
+**24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.**
+
+![image](https://user-images.githubusercontent.com/105742149/187323895-2ef50b52-8b24-4cbe-827c-9207ed6712ae.png)
+
+**26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Æ, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent= 50 V?**
+
+![image](https://user-images.githubusercontent.com/105742149/187323909-a0bb5eb1-4f07-47b0-b7ba-476a5c7b2ed6.png)
 
 ### **4.	Video**
 
