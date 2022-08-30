@@ -269,6 +269,8 @@ el ancho de banda para cada filtro.**
 
 ### **4.	Video**
 
+https://youtu.be/Lyt69EvbxBE
+
 ### **5.	Conclusiones**
 
 * Los filtros pasa bajas son esos que permiten pasar señales de baja frecuencia a partir de la acceso hasta la salida a medida que rechaza las señales de baja frecuencia, los filtros pasa altas permiten el paso de las señales de alta frecuencia a partir de la acceso hasta la salida a medida que rechaza las señale de baja frecuencia, los filtros pasa banda permiten el paso de determinada banda de frecuencias y reduce o rechaza por completo las frecuencias que permanecen por abajo y por arriba de la banda de paso, al final los filtros pasa banda permiten el paso de determinada banda de frecuencias y reduce o rechaza cada una de las frecuencias que permanecen por abajo y por arriba de la banda de paso. 
