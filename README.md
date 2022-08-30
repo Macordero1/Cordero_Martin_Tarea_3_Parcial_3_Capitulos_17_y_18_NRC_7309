@@ -25,6 +25,16 @@
 
 ### **2.	Marco Teórico (Resumen)**
 
+![image](https://user-images.githubusercontent.com/105742149/187329457-500ca394-32d6-4e60-9434-f61c5eff35f6.png)
+
+![image](https://user-images.githubusercontent.com/105742149/187330501-36bca842-a6d0-46ec-9f57-54379fb1fb70.png)
+
+![image](https://user-images.githubusercontent.com/105742149/187330891-e67fd437-02ec-4043-9eb3-0246bc10a915.png)
+
+![image](https://user-images.githubusercontent.com/105742149/187331937-72fbc765-b714-4d2a-9e9f-4d549efea84f.png)
+
+![image](https://user-images.githubusercontent.com/105742149/187332648-b84f1208-f576-4096-a8c4-5a5107197167.png)
+
 ### **3.	Explicación y resolución de ejercicios o problemas**
 
 ### **Capitulo 17**
